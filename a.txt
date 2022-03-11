@@ -1,5 +1,2 @@
-teste de alteração.
-nova alteração feita.
-tudo posso naquele que fortalece.
-tudo que você quiser pode fazer é so ter fé em Deus
-tudo posso na quele que me fortalece, amém.
+<h1>Ola, este arquivo é do GitHub</h1>
+<p>testando</p>
